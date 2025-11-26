@@ -1,4 +1,4 @@
-# 🏛️ vi legislation file tree
+# 🏛️ U.S. Virgin Islands legislation file tree
 
 Download a copy of your states legislation.
 
